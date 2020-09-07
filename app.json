@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "WeatherApp for testing. (Made by wjehd9)",
+    "githubUrl": "https://github.com/wjehd9/WeatherApp"
   }
 }
